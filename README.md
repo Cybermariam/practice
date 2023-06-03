@@ -6,6 +6,3 @@ main text
 
 some more text
 git
-
-
-##local development
